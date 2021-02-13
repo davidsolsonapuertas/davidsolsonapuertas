@@ -9,7 +9,7 @@
 
 <br />
 
-### 🙋🏼‍About me:
+### 🙋🏼‍ About me:
 
 - 📍 Full-Stack developer from Barcelona, currently based in London, UK
 - 💬 I speak 4 languages: English🇬🇧, Spanish🇪🇸, Catalan🐈 and JavaScript💻
@@ -22,7 +22,6 @@
 
 ### 🛠I'm always learning, but lately I've been using these tools:
 
-<br />
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
