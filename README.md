@@ -20,7 +20,7 @@
 
 <br />
 
-### 🛠I'm always learning, but lately I've been using these tools:
+### 🛠 I'm always learning, but lately I've been using these tools:
 
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
