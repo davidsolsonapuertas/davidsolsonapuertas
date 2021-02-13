@@ -3,9 +3,11 @@
 
    <img src="https://pronoun.cyou/x/y?subject=He&object=They&height=20"> 
 <h3>
-   <a href="https://www.linkedin.com/in/davidsolsonapuertas/"><img height="30" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"></a>&nbsp;&nbsp; | 💻 Full Stack Developer | 📍 London, UK</h3>
+   <a href="https://www.linkedin.com/in/davidsolsonapuertas/"><img height="20" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"></a>&nbsp;&nbsp; |  💻 Full Stack Developer | 📍 London, UK</h3>
 </div>
    <img src="./assets/image.gif">
+
+<br />
 
 ### 🙋🏼‍About me:
 
@@ -16,8 +18,11 @@
 - 📚 Background in Business Management and education
 - 🙋🏼 In my free time I enjoy editing videos with After Effects, coding and doing special effects makeups🧟‍♀️
 
+<br />
+
 ### 🛠I'm always learning, but lately I've been using these tools:
 
+<br />
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
@@ -35,6 +40,8 @@
   <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"> <img src="./assets/premiere.png" alt="Premiere Pro" width="40" height="40"/> </a> 
   <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank"> <img src="./assets/ae.png" alt="After Effects" width="40" height="40"/> </a> 
 </p>
+
+<br />
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
