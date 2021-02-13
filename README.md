@@ -1,9 +1,9 @@
 <div align="center">
-   <h1>Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">. I'm David🧑🏼‍💻 </h1>
+   <h1>Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">.  I'm David🧑🏼‍💻 </h1>
 
    <img href="https://www.linkedin.com/in/davidsolsonapuertas/" src="https://pronoun.cyou/x/y?subject=He&object=They&height=20"> 
 <h3>
-   <a href="https://www.linkedin.com/in/davidsolsonapuertas/"><img height="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"></a>&nbsp;&nbsp; |&nbsp;&nbsp; 💻 Full Stack Developer | 📍 London, UK</h3>
+   <a href="https://www.linkedin.com/in/davidsolsonapuertas/"><img height="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"></a>&nbsp;&nbsp; |&nbsp;&nbsp; 💻 Full-Stack Developer | 📍 London, UK</h3>
 </div>
    <img href="https://github.com/davidsolsonapuertas" src="./assets/image.gif">
 
