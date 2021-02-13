@@ -13,7 +13,7 @@
 
 - 📍 Full-Stack developer from Barcelona, currently based in London, UK
 - 💬 I speak 4 languages: English🇬🇧, Spanish🇪🇸, Catalan🐈 and JavaScript💻
-- 💡 Currently working on two travel apps, trip organiser NextTripGo && the the ultimate app for the fearless solo explorer Frontier
+- 💡 Currently working on two travel apps, trip organiser <a href="https://github.com/davidsolsonapuertas/NextTripGo">NextTripGo</a> && the the ultimate app for the fearless solo explorer <a href="https://github.com/Hough-Lab/Frontier">Frontier</a>
 - 📩 How to reach me: davidsolsonapuertas@gmail.com
 - 📚 Background in Business Management and education
 - 🙋🏼 In my free time I enjoy editing videos with After Effects, coding and doing special effects makeups🧟‍♀️
@@ -44,7 +44,7 @@
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-
+<br />
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidsolsonapuertas&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br />
