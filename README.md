@@ -15,7 +15,7 @@
 - 💬 I speak 4 languages: English🇬🇧, Spanish🇪🇸, Catalan🐈 and JavaScript💻
 - 📚 Background in Business Management and Education
 - 🙋🏼 In my free time I enjoy editing videos with After Effects, coding and doing special effects makeups🧟‍♀️
-
+  <br />
 - 💡 Currently working on two travel apps, trip organiser <a href="https://github.com/davidsolsonapuertas/NextTripGo">NextTripGo</a> && the the ultimate app for the fearless solo explorer <a href="https://github.com/Hough-Lab/Frontier">Frontier</a>
 - 📩 How to reach me: davidsolsonapuertas@gmail.com
 
