@@ -17,7 +17,7 @@
   <br />
 - 📚 Background in Business Management and Education
   <br />
-- 🙋🏼 In my free time I enjoy editing videos with After Effects, coding and doing special effects makeups🧟‍♀️
+- 🙋🏼 In my free time I enjoy filmmaking, coding and doing special effects makeups🧟‍♀️
   <br />
   <br />
 - 💡 Currently working on two travel apps, trip organiser <a href="https://github.com/davidsolsonapuertas/NextTripGo">NextTripGo</a> && the the ultimate app for the fearless solo explorer <a href="https://github.com/Hough-Lab/Frontier">Frontier</a>
