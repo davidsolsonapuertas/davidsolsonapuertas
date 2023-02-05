@@ -9,6 +9,8 @@
 
 <br />
 
+I'm currently more active on my <a href="https://github.com/davidmatchpint">secondary account!</a>
+
 ### 🙋🏼‍ About me:
 
 - 📍 Full-Stack developer from Barcelona, currently based in London, UK
