@@ -1,7 +1,5 @@
 <div align="center">
    <h1>Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">.  &nbsp;&nbsp;I'm David🧑🏼‍💻 </h1>
-
-   <img href="https://www.linkedin.com/in/davidsolsonapuertas/" src="https://pronoun.cyou/x/y?subject=He&object=They&height=20"> 
 <h3>
    <a href="https://www.linkedin.com/in/davidsolsonapuertas/"><img height="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"></a>&nbsp;&nbsp; |&nbsp;&nbsp; 💻 Full-Stack Developer | 📍 London, UK</h3>
 </div>
@@ -9,29 +7,29 @@
 
 <br />
 
-I'm currently more active on my <a href="https://github.com/davidmatchpint">secondary account!</a>
+I'm currently more active on my <a href="https://github.com/davidmatchpint">secondary GitHub account!</a>
 
 ### 🙋🏼‍ About me:
 
 - 📍 Full-Stack developer from Barcelona, currently based in London, UK
   <br />
-- 💬 I speak 4 languages: English🇬🇧, Spanish🇪🇸, Catalan🐈 and JavaScript💻
+- 💬 You can reach out in English, Spanish or Catalan
   <br />
 - 📚 Background in Business Management and Education
   <br />
-- 🙋🏼 In my free time I enjoy filmmaking, coding and doing special effects makeups🧟‍♀️
+- 🙋🏼 In my free time I enjoy filmmaking, coding and doing special effects makeups
   <br />
   <br />
-- 💡 Currently working on two travel apps, trip organiser <a href="https://github.com/davidsolsonapuertas/NextTripGo">NextTripGo</a> && the the ultimate app for the fearless solo explorer <a href="https://github.com/Hough-Lab/Frontier">Frontier</a>
+- 💡 Currently working at <a href="https://www.fanzo.com/en"><img src="https://emoji.slack-edge.com/TC49XP0TZ/fanzo_loader_yellow/6254c27b6ae84621.gif" width="14" height="14" /> Fanzo</a>, a venue finder for sports fans across the world
   <br />
-- 📩 How to reach me: davidsolsonapuertas@gmail.com
+- 📩 Reach me: davidsolsonap@gmail.com
 
 <br />
 
 ### 🛠 I'm always learning, but lately I've been using these tools:
 
 <p align="left"> 
-   <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
+   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" width="40" height="40"/> </a> 
   <a href="https://angular.io" target="_blank"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a> 
@@ -50,9 +48,6 @@ I'm currently more active on my <a href="https://github.com/davidmatchpint">seco
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
-<br />
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davidsolsonapuertas&theme=midnight-purple&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <br />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsolsonapuertas&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </div>
