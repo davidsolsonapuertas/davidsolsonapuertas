@@ -7,7 +7,7 @@
 
 <br />
 
-I'm currently more active on my <a href="https://github.com/davidmatchpint">secondary GitHub account!</a>
+I'm currently more active on my <a href="https://github.com/davidsolsonap">secondary GitHub account!</a>
 
 ### 🙋🏼‍ About me:
 
