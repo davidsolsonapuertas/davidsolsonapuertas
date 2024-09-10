@@ -7,7 +7,7 @@
 
 <br />
 
-I'm currently more active on my <a href="https://github.com/davidsolsonap">secondary GitHub account!</a>
+Also find me on <a href="https://github.com/davidsolsonap">secondary GitHub account!</a>
 
 ### 🙋🏼‍ About me:
 
@@ -20,7 +20,7 @@ I'm currently more active on my <a href="https://github.com/davidsolsonap">secon
 - 🙋🏼 In my free time I enjoy filmmaking, coding and doing special effects makeups
   <br />
   <br />
-- 💡 Currently working at <img href="https://www.fanzo.com/en" src="https://emoji.slack-edge.com/TC49XP0TZ/fanzo_loader_yellow/6254c27b6ae84621.gif" width="14" height="14" /><a href="https://www.fanzo.com/en"> Fanzo</a>, a venue finder for sports fans across the world
+- 💡 Currently working at the BBC
   <br />
 - 📩 Reach me: davidsolsonap@gmail.com
 
