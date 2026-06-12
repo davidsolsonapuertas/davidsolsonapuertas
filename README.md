@@ -1,54 +1,47 @@
 <div align="center">
-   <h1>Hola<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">.  &nbsp;&nbsp;I'm David🧑🏼‍💻 </h1>
-<h3>
-   <a href="https://www.linkedin.com/in/davidsolsonapuertas/"><img height="25px" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png"></a>&nbsp;&nbsp; |&nbsp;&nbsp; 💻 Full-Stack Developer | 📍 London, UK</h3>
+  <h1>Hola 👋, I'm David</h1>
+  <h3>
+    <a href="https://www.linkedin.com/in/davidsolsonapuertas/">LinkedIn</a>
+    &nbsp;|&nbsp;
+    <a href="https://socrati.app">Socrati</a>
+    &nbsp;|&nbsp;
+    Full-stack engineer
+    &nbsp;|&nbsp;
+    London, UK
+  </h3>
 </div>
-   <img href="https://github.com/davidsolsonapuertas" src="./assets/image.gif">
+
+<img src="./assets/image.gif" alt="Animated David Solsona banner" width="100%">
 
 <br />
 
-Also find me on <a href="https://github.com/davidsolsonap">secondary GitHub account!</a>
+### About me
 
-### 🙋🏼‍ About me:
-
-- 📍 Full-Stack developer from Barcelona, currently based in London, UK
-  <br />
-- 💬 You can reach out in English, Spanish or Catalan
-  <br />
-- 📚 Background in Business Management and Education
-  <br />
-- 🙋🏼 In my free time I enjoy filmmaking, coding and doing special effects makeups
-  <br />
-  <br />
-- 💡 Currently working at the BBC
-  <br />
-- 📩 Reach me: davidsolsonap@gmail.com
+- Full-stack engineer shipping production systems in TypeScript, React, Node.js, GraphQL, and AWS.
+- Currently a Software Engineer at the BBC.
+- Founder and sole engineer of [Socrati](https://socrati.app), a live AI learning app that turns PDFs, videos, and topics into courses with spaced-repetition review.
+- I work across LLM pipelines, evals, course generation, mobile apps, and production infrastructure.
+- Based in London; from Barcelona. I work in English, Spanish, and Catalan.
+- Reach me at <a href="mailto:davidsolsonap@gmail.com">davidsolsonap@gmail.com</a>.
 
 <br />
 
-### 🛠 I'm always learning, but lately I've been using these tools:
+### Tech stack
 
-<p align="left"> 
-   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="react" width="40" height="40"/> </a> 
-    <a href="https://expressjs.com" target="_blank"> <img src="https://icongr.am/devicon/express-original-wordmark.svg?size=128&color=currentColor" alt="express" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank"> <img src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=currentColor" alt="angularjs" width="40" height="40"/> </a> 
-   <a href="https://graphql.github.io/" target="_blank"> <img src="https://user-images.githubusercontent.com/25126281/102015838-d4678280-3d55-11eb-81d2-cd2a79ea3a82.png" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=currentColor" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor" alt="postgresql" width="40" height="40"/> </a>  
-     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="./assets/photoshop.png" alt="Photoshop" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank"> <img src="./assets/premiere.png" alt="Premiere Pro" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank"> <img src="./assets/ae.png" alt="After Effects" width="40" height="40"/> </a> 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,graphql,aws,postgres,supabase,mongodb,deno,docker,jest,cypress,tailwind,git" alt="TypeScript, JavaScript, React, Next.js, Node.js, GraphQL, AWS, PostgreSQL, Supabase, MongoDB, Deno, Docker, Jest, Cypress, Tailwind, Git" />
 </p>
 
+- **Frontend:** React, React Native, Expo, Next.js, TypeScript, Tailwind
+- **Backend:** Node.js, Deno, Express, GraphQL, PostgreSQL, MongoDB, Supabase
+- **Cloud & tooling:** AWS Lambda, RDS, S3, Docker, GitHub Actions, Jenkins
+- **Testing:** Jest, React Testing Library, Cypress
+- **AI / LLM:** Claude Code, OpenAI Codex, Gemini API, LLM API integration, prompt evals, LLM-as-judge workflows
+
 <br />
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<br />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsolsonapuertas&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</div>
+<details>
+  <summary><b>GitHub Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidsolsonapuertas&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8" alt="David Solsona GitHub top languages" />
 </details>
